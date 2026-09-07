@@ -1,6 +1,7 @@
 <img width="452" height="297" alt="لقطة شاشة 2026-09-07 161043" src="https://github.com/user-attachments/assets/7feb40e0-9cb5-4955-ab81-8f2b9a255050" />
 <img width="655" height="446" alt="لقطة شاشة 2026-09-07 161027" src="https://github.com/user-attachments/assets/2b00efb3-7b32-4c9d-8772-4ce772b3379a" />
 <img width="905" height="532" alt="لقطة شاشة 2026-09-07 161005" src="https://github.com/user-attachments/assets/6b1e1efc-99bf-42a9-9879-b951776bd2f4" />
+
 # 🛒 Amazon Sales & Customer Analytics Dashboard
 
 An interactive end-to-end data analytics dashboard providing deep insights into Amazon's sales performance, customer behavior, and product profitability.
